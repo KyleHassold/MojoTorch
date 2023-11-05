@@ -116,10 +116,7 @@ The goal of this project is to closely mimic the features and layout of the PyTo
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] TDB
 
 See the [open issues](https://github.com/KyleHassold/MojoTorch/issues) for a full list of proposed features (and known issues).
 
@@ -165,9 +162,8 @@ Project Link: [https://github.com/KyleHassold/MojoTorch](https://github.com/Kyle
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Infermo](https://github.com/TilliFe/Infermo)
+* [PyTorch](https://pytorch.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
